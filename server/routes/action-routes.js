@@ -11,7 +11,7 @@ module.exports = [
 				{
 					name: 'admin::hasPermissions',
 					config: {
-						actions: ['plugin::strapi-plugin-publisher.use'],
+						actions: ['plugin::publisher.use'],
 					},
 				},
 			],
@@ -27,7 +27,7 @@ module.exports = [
 				{
 					name: 'admin::hasPermissions',
 					config: {
-						actions: ['plugin::strapi-plugin-publisher.use'],
+						actions: ['plugin::publisher.use'],
 					},
 				},
 			],
@@ -43,7 +43,7 @@ module.exports = [
 				{
 					name: 'admin::hasPermissions',
 					config: {
-						actions: ['plugin::strapi-plugin-publisher.use'],
+						actions: ['plugin::publisher.use'],
 					},
 				},
 			],
@@ -59,7 +59,7 @@ module.exports = [
 				{
 					name: 'admin::hasPermissions',
 					config: {
-						actions: ['plugin::strapi-plugin-publisher.use'],
+						actions: ['plugin::publisher.use'],
 					},
 				},
 			],

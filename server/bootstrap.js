@@ -14,7 +14,7 @@ const registerPermissionActions = async () => {
 			section: 'plugins',
 			displayName: 'Use Published Plugin',
 			uid: 'use',
-			pluginName: 'strapi-plugin-publisher',
+			pluginName: 'publisher',
 		},
 	];
 
